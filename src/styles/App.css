@@ -1,0 +1,13 @@
+.app{
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://us.123rf.com/450wm/dmitr1ch/dmitr1ch1712/dmitr1ch171200047/92113009-chalk-rubbed-on-blackboard-for-background-school-board-for-text.jpg?ver=6")
+ 
+}
+.title{
+ 
+  
+  align-items: center;
+  margin-top: 50 px;
+}
